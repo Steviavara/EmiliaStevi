@@ -52,7 +52,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
-This is {BOT_NAME}[.]({EMILIA_START_IMG})
+This is {BOT_NAME}[.](https://telegra.ph/file/9346deb7942bf572158d6.jpg)
 
 A Diverse Systematic Bot Written in Python.
 You can Add Me In Your Group for Knowing my True Power.
